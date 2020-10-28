@@ -12,6 +12,6 @@ __To complete this exercise I want you to draw a graph showing how the values of
 2. The blue points indicate how the third moment about the mean changes as n increases
 3. The green points indicate how the fourth moment about the mean changes as n increases
 
-You can use the variable called `ssum1` to accumulate the numerator in the expression for ![](https://render.githubusercontent.com/render/math?math=(X_i-\overline{X})). `ssum2`, `ssum3` and `ssum4` to accumulate the numerator in the expression for the central moment above with r=2, r=3 and r=4 respectively. The elements of the NumPy array `indices` should be set equal to 1, 2, 3, ...
+You can use the variable called `ssum1` to accumulate the numerator in the expression for ![](https://render.githubusercontent.com/render/math?math=\overline{X}). `ssum2`, `ssum3` and `ssum4` to accumulate the numerator in the expression for the central moment above with r=2, r=3 and r=4 respectively. The elements of the NumPy array `indices` should be set equal to 1, 2, 3, ...
 
   
